@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 56DD-A83A
+
+ Directory of D:\gitrepos\sravan\MyProject
+
+10/27/2026  04:00 PM    <DIR>          .
+10/27/2026  03:59 PM    <DIR>          ..
+10/27/2026  04:00 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  151,406,596,096 bytes free
